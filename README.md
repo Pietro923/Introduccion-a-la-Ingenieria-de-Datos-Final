@@ -1,4 +1,4 @@
-# 🎬 Proyecto de Finalización de curso Introduccion a la Ingenieria de Datos
+![image](https://github.com/user-attachments/assets/5f188db1-cc7f-4058-91c5-f259c73a1d9c)# 🎬 Proyecto de Finalización de curso Introduccion a la Ingenieria de Datos
 
 Este proyecto implementa un pipeline completo de MLOps para construir un sistema de recomendación de películas. El flujo de trabajo integra múltiples tecnologías:
 - **Airbyte** para ingestión de datos
@@ -62,7 +62,7 @@ Fuente de Datos           Pipeline MLOps                Resultados
 
 ### 1. Instalar Conda
 
-<img src="public/conda.png" alt="Anaconda Web">
+<img src="https://imgur.com/OzEmlwz.png" alt="Anaconda Web">
 
 Conda se utiliza para gestionar el entorno de Python y las dependencias:
 
