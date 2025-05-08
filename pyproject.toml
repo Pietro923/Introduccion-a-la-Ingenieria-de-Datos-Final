@@ -1,0 +1,30 @@
+[project]
+name = "dg-testing"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Pietro",email = "beelbonacossa@gmail.com"}
+]
+readme = "README.md"
+
+requires-python = ">=3.9,<3.13"
+dependencies = [
+    "dagster-airbyte (>=0.26.13,<0.27.0)",
+    "mlflow (>=2.22.0,<3.0.0)",
+    
+]
+
+[project.optional-dependencies]
+dev = [
+    "dagster-webserver", 
+    "pytest",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.dagster]
+module_name = "dg_testing.definitions"
+project_name = "dg_testing"

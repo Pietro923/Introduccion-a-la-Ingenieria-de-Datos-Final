@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+dg_testing/__init__.py
+dg_testing/assets.py
+dg_testing/definitions.py
+dg_testing.egg-info/PKG-INFO
+dg_testing.egg-info/SOURCES.txt
+dg_testing.egg-info/dependency_links.txt
+dg_testing.egg-info/requires.txt
+dg_testing.egg-info/top_level.txt
