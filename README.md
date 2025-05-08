@@ -62,7 +62,7 @@ Fuente de Datos           Pipeline MLOps                Resultados
 
 ### 1. Instalar Conda
 
-<img src="https://imgur.com/OzEmlwz.png" alt="Anaconda Web">
+<img src="https://imgur.com/tHyaIXd.png" alt="Anaconda Web">
 
 Conda se utiliza para gestionar el entorno de Python y las dependencias:
 
