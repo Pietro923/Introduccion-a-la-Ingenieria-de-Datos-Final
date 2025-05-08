@@ -9,8 +9,6 @@ Este proyecto implementa un pipeline completo de MLOps para construir un sistema
 ## 📋 Tabla de Contenidos
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
 - [Arquitectura](#-arquitectura)
-- [Requisitos Previos](#-requisitos-previos)
-- [Instalación Paso a Paso](#-instalación-paso-a-paso)
   - [1. Instalar Conda](#1-instalar-conda)
   - [2. Instalar Docker Desktop](#2-instalar-docker-desktop)
   - [3. Instalar y Configurar Airbyte](#3-instalar-y-configurar-airbyte)
@@ -21,7 +19,7 @@ Este proyecto implementa un pipeline completo de MLOps para construir un sistema
   - [8. Configurar MLflow](#8-configurar-mlflow)
 - [Ejecución del Pipeline](#-ejecución-del-pipeline)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Troubleshooting](#-troubleshooting)
+- [Problemas](#-Problemas-que-tuve)
 
 ## 🛠 Tecnologías Utilizadas
 
