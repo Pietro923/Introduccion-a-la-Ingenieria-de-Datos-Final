@@ -62,7 +62,7 @@ Fuente de Datos           Pipeline MLOps                Resultados
 
 ### 1. Instalar Conda
 
-<img src="https://imgur.com/tHyaIXd.png" alt="Anaconda Web">
+<img src="https://i.imgur.com/Gr5CVmg.png" alt="Anaconda" width="600">
 
 Conda se utiliza para gestionar el entorno de Python y las dependencias:
 
@@ -84,6 +84,8 @@ Conda se utiliza para gestionar el entorno de Python y las dependencias:
 
 ### 2. Instalar Docker Desktop
 
+<img src="https://i.imgur.com/iTMq6ku.png" alt="Docker" width="600">
+
 Docker y Docker Compose son necesarios para ejecutar los contenedores:
 
 #### Windows:
@@ -98,6 +100,8 @@ docker-compose --version
 ```
 
 ### 3. Instalar y Configurar Airbyte
+
+<img src="https://i.imgur.com/SJakASi.png" alt="AirByte-Source" width="600">
 
 Airbyte se utiliza para la extracción y carga de datos:
 
@@ -143,6 +147,8 @@ Configurar las fuentes de datos y destinos en Airbyte:
    - Base de datos: mlops
    - Schema: target
 4. Hacer clic en "Test and Save"
+
+<img src="https://i.imgur.com/47Nww43.png" alt="AirByte-Destinations" width="600">
 
 #### Crear conexión:
 1. Ir a "Connections" > "New connection"
@@ -241,6 +247,8 @@ dagster dev
 
 ### 8. Configurar MLflow
 
+<img src="https://i.imgur.com/euSlstU.png" alt="Mlflow" width="600">
+
 MLflow se utiliza para registrar y visualizar experimentos:
 
 ```bash
@@ -276,6 +284,8 @@ Para ejecutar el pipeline completo:
    - Acceder a la interfaz de MLflow (http://localhost:5000)
    - Explorar los experimentos y modelos registrados
    - Revisar las métricas, parámetros y artefactos
+
+<img src="https://i.imgur.com/b6V6Xfl.png" alt="Dagster" width="600">
 
 ## 📂 Estructura del Proyecto
 
