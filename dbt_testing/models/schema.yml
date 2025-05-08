@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: raw_data
+    description: "Raw data from the mlops project"
+    database: mlops
+    schema: target
+    tables:
+      - name: movies
+      - name: user_reviews
+      - name: critic_reviews
