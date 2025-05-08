@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5f188db1-cc7f-4058-91c5-f259c73a1d9c)# 🎬 Proyecto de Finalización de curso Introduccion a la Ingenieria de Datos
+🎬 Proyecto de Finalización de curso Introduccion a la Ingenieria de Datos
 
 Este proyecto implementa un pipeline completo de MLOps para construir un sistema de recomendación de películas. El flujo de trabajo integra múltiples tecnologías:
 - **Airbyte** para ingestión de datos
